@@ -28,7 +28,7 @@ java：IDEA，Jetbrains公司出品
 
 go：goland，Jetbrains公司出品
 
-python：pycharm，Jetbrains公司出品
+python：pycharm，Jetbrains公司出品,jupyter lab
 
 ### shell编程
 
