@@ -10,7 +10,10 @@
 
 另一方面利用科学上网和google是解决问题的最佳途径。
 
+初学建议较为扎实地掌握一门语言，对以后的编程学习很有帮助。
+
 时间仓促，加上本人能力有限，本文档内容的进一步充实还靠各位大佬多多issue，pr。
+
 
 ## 社区指导
 
@@ -73,6 +76,15 @@ nodejs开源地址：https://github.com/nodejs/node
 
 后端可选的语言太多，java，go，javascript等等,内容太杂了。有点不太好论述，逐渐补充一些内容吧。
 
+javascript:基于nodejs的server框架：express，koa，fastify等等，都比较类似。
+
+python：flask和Django，不太推荐，也算是时代的眼泪。
+
+php：不太推荐，时代的眼泪
+
+java：spring
+
+go：
 
 ### 机器学习
 
