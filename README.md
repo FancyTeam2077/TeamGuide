@@ -6,7 +6,7 @@
 
 欢迎各位新人加入FancyTeam，我们的宗旨是热爱搞事，乐于分享。希望大家能在团队里学到自己感兴趣、喜欢的编程知识。
 
-希望借这个仓库能让大家了解github，你会发现github真是一个好地方，下面提到的vue，react，nodejs等等著名的框架和库，都是在github上开源。
+希望借这个仓库能让大家了解github，会发现github真是一个好地方，下面提到的vue，react，nodejs等等著名的框架和库，都是在github上开源。
 
 另一方面利用科学上网和google是解决问题的最佳途径。
 
@@ -32,7 +32,7 @@ python：pycharm，Jetbrains公司出品
 
 ### shell编程
 
-待补充。如果你使用windows操作系统，但不知道cmd，google或者百度一下，学几个命令，你就打开了新世界大门。
+待补充。如果使用windows操作系统，但不知道cmd，google或者百度一下，学几个命令，你就打开了新世界大门。
 
 ### 前端
 
@@ -75,5 +75,9 @@ nodejs开源地址：https://github.com/nodejs/node
 
 
 ### 机器学习
+
+待补充
+
+### android开发
 
 待补充
